@@ -1,4 +1,4 @@
-# The Podcast Psycholoog Smart Suite
+# The Podcast Psycholoog's Podwave
 
 ![Visual]()
 
