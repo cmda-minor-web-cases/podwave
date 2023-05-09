@@ -1,6 +1,6 @@
 # The Podcast Psycholoog's Podwave
 
-![Visual]()
+![Visual](img/podwave-logo.png)
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
