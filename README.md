@@ -14,7 +14,7 @@
 Podwave is een project dat voortbouwt op de functionaliteiten van OpenAI Whisper voor *speech-to-text*. Het bestaat uit twee interfaces: één waar een podcast-eigenaar het ruwe json-bestand, gemaakt door Whisper, kan bewerken, en één waar een (betalende) gebruiker een podcast kan afspelen terwijl hij door een website scrolt met de (live rollende) transcriptie.
 
 ## Opdrachtgever
-De opdrachtgever voor dit project is de Podcast Psycholoog, vertegendwoordigt door Leonie van Dijk. Zij zien de waarde in van toegankelijkheid en willen hun inhoud gemakkelijker maken voor hun luisteraars om te volgen en te begrijpen.
+De opdrachtgever voor dit project is de Podcast Psycholoog, vertegendwoordigd door Leonie van Dijk. Zij zien de waarde in van toegankelijkheid en willen hun inhoud gemakkelijker maken voor hun luisteraars om te volgen en te begrijpen.
 
 ## Design challenge
 De uitdaging voor het ontwerp is het creëren van een intuïtieve en gebruiksvriendelijke interface voor zowel de podcast-eigenaar als de luisteraar.
